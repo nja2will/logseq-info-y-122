@@ -1,0 +1,27 @@
+alias:: Glossaire
+
+- # Glossaire anglais → français
+- Ajoute ici chaque terme nouveau entendu en cours, avec le framework où tu l'as rencontré.
+- ## Termes généraux (GRC, risque, audit)
+	- **Asset** → actif : tout ce qui a de la valeur pour l'organisation (données, serveurs, personnes, réputation)
+	- **Threat** → menace : ce qui pourrait causer un dommage (attaquant, panne, erreur humaine)
+	- **Vulnerability** → vulnérabilité : faiblesse qu'une menace peut exploiter
+	- **Risk** → risque : combinaison de la probabilité qu'une menace exploite une vulnérabilité et de l'impact
+	- **Likelihood** → probabilité / vraisemblance
+	- **Impact** → impact, conséquence
+	- **Risk assessment** → évaluation (appréciation) des risques
+	- **Risk treatment** → traitement des risques : réduire, transférer, éviter ou accepter
+	- **Residual risk** → risque résiduel : ce qui reste après les mesures
+	- **Risk appetite** → appétence au risque : niveau de risque que l'organisation accepte
+	- **Control / Safeguard** → mesure de sécurité, contrôle
+	- **Baseline** → socle minimal de mesures
+	- **Scope** → périmètre
+	- **Stakeholder** → partie prenante
+	- **Compliance** → conformité
+	- **Gap analysis** → analyse d'écart : différence entre la situation actuelle et la cible
+	- **Maturity level** → niveau de maturité
+	- **Mitigation** → atténuation, réduction
+	- **Framework** → cadre de référence, référentiel
+	- **Governance** → gouvernance : rôles, responsabilités, stratégie
+- ## Termes rencontrés en cours
+	- *(format : **terme** → traduction : explication — [[framework]])*
